@@ -3,6 +3,19 @@ Production-style monitoring setup in Azure with VM Insights, alert rules, and no
 
 # 🚀 Azure VM Monitoring & Alerting Implementation Guide
 
+## 📸 Screenshots Reference (read this to understand the purpose of images in the repo)
+Image are not for all steps but some "Key Steps"
+
+Screenshots are included at key steps throughout this project to provide visual guidance and improve clarity.
+
+They serve as a reference for:
+
+* Understanding the exact configuration in the Azure Portal
+* Verifying each stage of the setup process
+* Helping beginners follow along without confusion
+
+These images reflect the actual implementation and can be used to cross-check your own setup.
+
 ## 📌 Overview
 
 This project demonstrates how to set up **real-time CPU monitoring** and **automated alerting (Email + SMS)** for an Azure Linux Virtual Machine using Azure Monitor.
